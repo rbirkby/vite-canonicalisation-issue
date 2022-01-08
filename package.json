@@ -1,0 +1,14 @@
+{
+  "name": "vite-canonicalisation-issue",
+  "version": "1.0.0",
+  "description": "Vite base canonicalisation issue",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev --base=abc"
+  },
+  "author": "Richard Birkby",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^2.7.10"
+  }
+}
